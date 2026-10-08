@@ -14,7 +14,7 @@
     "@react-three/fiber": "^9.7.0",
     "border-beam": "^1.4.1",
     "clsx": "^2.1.1",
-    "framer-motion": "^13.4.0",
+    "framer-motion": "^14.0.0",
     "maath": "^0.10.8",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
